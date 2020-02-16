@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC|Rock+Salt|Roboto+Slab|Shadows+Into+Light&display=swap);
+
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+
+
+body{
+	color: rgb(69,105,163);
+	font-family: 'Roboto Slab', serif;
+	}
+
+h1,h2,h3 {
+	color: #e8867d;
+	font-family: 'Rock Salt', cursive;
+	font-weight: bold;
+
+}
+a {
+	text-decoration: none;
+
+}
+.text-center {
+	text-align: center;
+}
